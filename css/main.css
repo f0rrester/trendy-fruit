@@ -23,3 +23,36 @@ html {
 body {
   margin: 0;
 }
+
+.flex {
+  display: block;
+  width: 100%;
+}
+
+h1 {
+  font-family: "Rammetto One", cursive;
+}
+
+h2 {
+  font-family: "Gravitas One", cursive;
+}
+
+h3 {
+  font-family: Comfortaa, cursive;
+}
+
+.Watermelon{
+  background-color: #e97065;
+}
+
+.starfruit {
+  background-color: #fbd25e;
+}
+
+.persimmon {
+  background-color: #e86033;
+}
+
+p {
+  font-family: "Open Sans", serif;
+}
